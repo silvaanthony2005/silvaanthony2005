@@ -23,7 +23,7 @@ ___
 | Columna1 | Columna2 | Columna3|
 |----------|----------|---------|
 | Dato1    | Dato3    | Dato4   |
-|----------|----------|---------|
+
 
 - [x] tarea 1 Tarea completada
 - [ ] Tarea 2 Tarea incompleta
