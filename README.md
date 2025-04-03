@@ -1,5 +1,6 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=2DD219&center=true&vCenter=true&width=435&lines=%2F%2F%3EHola+a+todos;%3EMi+nombre+es+Anthony;%24Desarrollador+de+software)](https://git.io/typing-svg)
-
+</div>
 ## **Skills**
 
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,12 +17,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-Expert-blue)
 
+
 # Stats
+<div align="center">
 [![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=silvaanthony2005&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 # Top Languages
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 * a
