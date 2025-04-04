@@ -32,6 +32,8 @@
 </p>
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?silvaanthony2005=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
