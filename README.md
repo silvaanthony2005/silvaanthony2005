@@ -46,10 +46,10 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p align="center">
   <a href="https://github.com/silvaanthony2005">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silvaanthony2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silvaanthony2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/silvaanthony2005">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
