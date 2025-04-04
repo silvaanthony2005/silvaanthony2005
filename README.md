@@ -32,8 +32,6 @@
 </p>
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaanthony2005&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="silvaanthony2005's Github Stats">
-
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -48,7 +46,7 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p align="center">
   <a href="https://github.com/silvaanthony2005">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silvaanthony2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silvaanthony2005&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,000F40" alt="silvaanthony2005's Github Stats"/>
   </a>
   <a href="https://github.com/silvaanthony2005">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&theme=algolia"/>
