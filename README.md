@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaanthony2005&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&background=000000&stroke=000F40&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB"/>
 </p>
 
 <!--
