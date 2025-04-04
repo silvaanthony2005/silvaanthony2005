@@ -36,7 +36,6 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/silvaanthony2005/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Trophies">
   </a>
 </p>
 <br />
