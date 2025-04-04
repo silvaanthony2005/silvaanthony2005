@@ -57,6 +57,13 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&background=000000&stroke=000F40&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB"/>
 </p>
 
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaanthony2005&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
 <!--
 * a
 * b
