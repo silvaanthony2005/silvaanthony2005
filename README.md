@@ -2,8 +2,8 @@
 ![Silvaanthony2005 Banner Image](https://github.com/silvaanthony2005/Banner.png/blob/main/banner.PNG)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Anthony 
+*Developer / Programmer*
 <br /> 
 
 <!--Start Intro-->               
@@ -29,7 +29,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,py,django,flask,react,js,html,css,nodejs,git,vscode,mysql,sqlite,postgres &perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,django,flask,react,js,html,css,nodejs,git,vscode,mysql,sqlite,postgres&perline=10"  />
 </p>
 <br />
 
