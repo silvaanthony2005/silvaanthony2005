@@ -68,9 +68,11 @@
     <img width="500px"  src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,github&perline=10"  />
   </p>
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=This+is+the+end;Thank+you+for+visiting!)](https://git.io/typing-svg)
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=This+is+the+end;Thank+you+for+visiting!" alt="Typing SVG">
+  </a>
+</div>
 
 <!--Footer--> 
 <p align="center">
