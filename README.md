@@ -27,21 +27,19 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,django,flask,react,js,html,css,nodejs,git,vscode,mysql,sqlite,postgres&perline=10"  />
-</p>
+  <p align="center">
+    <img width="500px"  src="https://skillicons.dev/icons?i=py,django,flask,react,js,html,css,nodejs,git,vscode,mysql,sqlite,postgres&perline=10"  />
+  </p>
 <br />
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/silvaanthony2005/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=silvaanthony2005&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/silvaanthony2005/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=silvaanthony2005&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    </a>
+  </p>
 <br />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=2DD219&center=true&vCenter=true&width=435&lines=%2F%2F%3EHola+a+todos;%3EMi+nombre+es+Anthony;%24Desarrollador+de+software)](https://git.io/typing-svg)
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <p align="center">
@@ -63,6 +61,19 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaanthony2005&bg_color=0,000000,000F40&color=7A7ADB&line=7A7ADB&point=00FFFF&area=true&hide_border=false" border-radius="15">
 </div>
+
+<!--Contact Section-->  
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+  <p align="center">
+    <img width="500px"  src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,github&perline=10"  />
+  </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=This+is+the+end;Thank+you+for+visiting!)](https://git.io/typing-svg)
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 <!--
 * a
