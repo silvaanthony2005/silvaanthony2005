@@ -43,11 +43,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=2DD219&center=true&vCenter=true&width=435&lines=%2F%2F%3EHola+a+todos;%3EMi+nombre+es+Anthony;%24Desarrollador+de+software)](https://git.io/typing-svg)
 
-# Stats
-[![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=silvaanthony2005&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<p align="center">
+  <a href="https://github.com/silvaanthony2005">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silvaanthony2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/silvaanthony2005">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaanthony2005&theme=dark&hide_border=true"/>
+</p>
 
 <!--
 * a
