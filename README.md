@@ -41,7 +41,7 @@
 </p>
 <br />
 
-[![Activity Trends of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=silvaanthony2005&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=silvaanthony2005)
+[![Activity Trends of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=2DD219&center=true&vCenter=true&width=435&lines=%2F%2F%3EHola+a+todos;%3EMi+nombre+es+Anthony;%24Desarrollador+de+software)](https://git.io/typing-svg)
 
