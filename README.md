@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/silvaanthony2005">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&background=0,000000,000F40&stroke=000F40&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&border_radius=6&locale=es&mode=weekly&background=45%2C000000%2C000F40" alt="GitHub Streak" />
   </a>
 </p>
 
