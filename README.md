@@ -53,7 +53,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=silvaanthony2005&theme=github-dark-blue&hide_border=verdadero&border_radius=6&locale=es&short_numbers=falso&mode=weekly&background=45%2C000000%2C000F40" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=silvaanthony2005&theme=github-dark-blue&hide_border=verdadero&border_radius=6&locale=es&short_numbers=falso&mode=weekly&background=45%2C000000%2C000F40" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!--Contribution Graph-->
@@ -78,25 +80,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-<!--
-* a
-* b
-* c
-* d
-***
-
-
-1. d
-2. e
-3. f
-4. g 
-___
-
-| Columna1 | Columna2 | Columna3|
-|----------|----------|---------|
-| Dato1    | Dato3    | Dato4   |
-
-
-- [x] tarea 1 Tarea completada
-- [ ] Tarea 2 Tarea incompleta
