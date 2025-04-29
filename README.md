@@ -1,5 +1,5 @@
 <!--Banner-->
-![Silvaanthony2005 Banner Image](https://github.com/silvaanthony2005/Banner.png/blob/main/banner.PNG)
+![Silvaanthony2005 Banner Image](https://github.com/silvaanthony2005/Banner.png/blob/main/banner.png)
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Anthony 
