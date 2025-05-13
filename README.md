@@ -66,9 +66,18 @@
 
 <!--Contact Section-->  
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-  <p align="center">
-    <img width="500px"  src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,github&perline=10"  />
-  </p>
+
+  <a align="center" href="silvaanthony2005@gmail.com">
+    <img width="500px"  src="https://skillicons.dev/icons?i=gmail&perline=10"  />
+  </a>
+
+  <a align="center" href="https://www.linkedin.com/in/anthony-silva-7b5a84364/">
+    <img width="500px"  src="https://skillicons.dev/icons?i=linkedin&perline=10"  />
+  </a>
+
+  <a align="center" href="https://github.com/silvaanthony2005">
+    <img width="500px"  src="https://skillicons.dev/icons?i=github&perline=10"  />
+  </a>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
