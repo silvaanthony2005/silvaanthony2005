@@ -68,15 +68,15 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   <a align="center" href="silvaanthony2005@gmail.com">
-    <img width="50px"  src="https://skillicons.dev/icons?i=gmail&perline=10"  />
+    <img width="80px"  src="https://skillicons.dev/icons?i=gmail&perline=10"  />
   </a>
 
   <a align="center" href="https://www.linkedin.com/in/anthony-silva-7b5a84364/">
-    <img width="50px"  src="https://skillicons.dev/icons?i=linkedin&perline=10"  />
+    <img width="80px"  src="https://skillicons.dev/icons?i=linkedin&perline=10"  />
   </a>
 
   <a align="center" href="https://github.com/silvaanthony2005">
-    <img width="50px"  src="https://skillicons.dev/icons?i=github&perline=10"  />
+    <img width="80px"  src="https://skillicons.dev/icons?i=github&perline=10"  />
   </a>
 </div>
 
