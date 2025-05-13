@@ -67,7 +67,7 @@
 <!--Contact Section-->  
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  <a href="silvaanthony2005@gmail.com">
+  <a href="mailto:silvaanthony2005@gmail.com">
     <img width="150px"  src="https://skillicons.dev/icons?i=gmail&perline=10"  />
   </a>
 
