@@ -41,7 +41,15 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-*⏳ Loading WakaTime stats...*
+
+```txt
+From: 19 August 2026 - To: 26 August 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </div>
