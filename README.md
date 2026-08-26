@@ -44,16 +44,16 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
   <a href="https://github.com/silvaanthony2005">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=silvaanthony2005&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=30363d&hide_border=true" alt="silvaanthony2005's Github Stats"/>
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=silvaanthony2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="silvaanthony2005's Github Stats"/>
   </a>
   <a href="https://github.com/silvaanthony2005">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&bg_color=0d1117&border_color=30363d&hide_border=true" alt="Top Languages"/>
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&border_radius=6&locale=es&short_numbers=false&mode=weekly&background=45%2C000000%2C000F40" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&border_radius=6&locale=es&short_numbers=false&mode=weekly" alt="GitHub Streak" />
   </a>
 </div>
 
