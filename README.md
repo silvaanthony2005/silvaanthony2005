@@ -66,7 +66,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaanthony2005&bg_color=0,000000,000F40&color=7A7ADB&line=7A7ADB&point=00FFFF&area=true&hide_border=false" alt="Contribution Graph"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph"/>
 </div>
 
 <!--Contact Section-->  
