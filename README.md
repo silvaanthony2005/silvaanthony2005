@@ -18,17 +18,6 @@
 - 🌐 Visita mi [Portfolio](https://silvaanthony2005.github.io/Portfolio/) para más detalles de mi.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=silvaanthony2005&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="silvaanthony2005" />
-  <a href="https://github.com/silvaanthony2005">
-    <img src="https://img.shields.io/github/followers/silvaanthony2005?label=Followers&style=for-the-badge&logo=github&color=770677" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/silvaanthony2005?tab=repositories">
-    <img src="https://img.shields.io/github/stars/silvaanthony2005?label=Stars&style=for-the-badge&logo=github&color=7A7ADB" alt="GitHub Stars" />
-  </a>
-</p>
-
 ---
 
 <!--Languages and Tools Section-->       
@@ -42,7 +31,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <div align="center">
   <a href="https://github.com/silvaanthony2005/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=silvaanthony2005" alt="GitHub Trophies">
+    <img src="https://trophy.ryglcloud.net/?username=silvaanthony2005&column=6&row=2&margin-w=15&margin-h=15&theme=onedark" alt="GitHub Trophies">
   </a>
 </div>
 <br />
