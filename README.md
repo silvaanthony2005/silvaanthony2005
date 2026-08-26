@@ -31,7 +31,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <div align="center">
   <a href="https://github.com/silvaanthony2005/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=silvaanthony2005&column=6&row=2&margin-w=15&margin-h=15&theme=onedark" alt="GitHub Trophies">
+    <img src="https://trophy.ryglcloud.net/?username=silvaanthony2005&column=6&row=2&margin-w=15&margin-h=15&theme=tokyonight" alt="GitHub Trophies">
   </a>
 </div>
 <br />
