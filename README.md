@@ -36,17 +36,6 @@
 </div>
 <br />
 
-<!--WakaTime Section-->
-<h2 align="center">⏱️ WᴀᴋᴀTɪᴍᴇ Sᴛᴀᴛs ⏱️</h2>
-<div align="center">
-
-<!--START_SECTION:waka-->
-*⏳ Loading WakaTime stats...*
-<!--END_SECTION:waka-->
-
-</div>
-<br />
-
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
   <a href="https://github.com/silvaanthony2005">
