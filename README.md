@@ -20,7 +20,13 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=silvaanthony2005&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="silvaanthony2005" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=silvaanthony2005&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="silvaanthony2005" />
+  <a href="https://github.com/silvaanthony2005">
+    <img src="https://img.shields.io/github/followers/silvaanthony2005?label=Followers&style=for-the-badge&logo=github&color=770677" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/silvaanthony2005?tab=repositories">
+    <img src="https://img.shields.io/github/stars/silvaanthony2005?label=Stars&style=for-the-badge&logo=github&color=7A7ADB" alt="GitHub Stars" />
+  </a>
 </p>
 
 ---
@@ -41,26 +47,37 @@
 </div>
 <br />
 
+<!--WakaTime Section-->
+<h2 align="center">⏱️ WᴀᴋᴀTɪᴍᴇ Sᴛᴀᴛs ⏱️</h2>
+<div align="center">
+
+<!--START_SECTION:waka-->
+*⏳ Loading WakaTime stats...*
+<!--END_SECTION:waka-->
+
+</div>
+<br />
+
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <div align="center">
   <a href="https://github.com/silvaanthony2005">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=silvaanthony2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="silvaanthony2005's Github Stats"/>
+    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=silvaanthony2005&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,000F40&rank_icon=github&hide_border=true" alt="silvaanthony2005's Github Stats"/>
   </a>
   <a href="https://github.com/silvaanthony2005">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+    <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=silvaanthony2005&layout=compact&langs_count=8&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,000F40&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&border_radius=6&locale=es&short_numbers=false&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=silvaanthony2005&theme=github-dark-blue&hide_border=true&border_radius=6&locale=es&short_numbers=false&mode=weekly&background=45,000000,000F40" alt="GitHub Streak" />
   </a>
 </div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaanthony2005&bg_color=0,000000,000F40&color=7A7ADB&line=7A7ADB&point=00FFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=silvaanthony2005&bg_color=0,000000,000F40&color=7A7ADB&line=7A7ADB&point=00FFFF&area=true&hide_border=false" alt="Contribution Graph"/>
 </div>
 
 <!--Contact Section-->  
